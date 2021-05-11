@@ -2,7 +2,8 @@
 
 > A dark theme for [GRUB](https://gnu.org/software/grub/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/12242178/117837002-11716b80-b247-11eb-8c3b-496f982cb31c.png)
+
 
 ## Install
 
