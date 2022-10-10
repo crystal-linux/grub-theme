@@ -8,8 +8,8 @@
 
 - Clone the PKGBUILD and enter the directory:
 ```bash
-git clone https://github.com/crystal-linux/pkgbuild.grub-theme
-cd pkgbuild.grub-theme
+git clone https://github.com/crystal-linux-packages/grub-theme
+cd grub-theme
 ```
 
 - Run `makepkg` to install it:
